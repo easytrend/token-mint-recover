@@ -1,2 +1,3 @@
 ﻿const n="https://Claim-LostSol.com",s="Claim-LostSol",o="Claim-LostSol is the simplest, safest way to recover excess SOL locked in Solana token mint accounts. Scan a mint, see exactly what's recoverable above the rent-exempt minimum, and withdraw it non-custodially in a single on-chain transaction. Powered by SIMD-0266 withdraw_excess_lamports. Supports Token Program and Token-2022.",e=t=>`${n}${t.startsWith("/")?t:`/${t}`}`,a="https://github.com/gbeni-wealth/Claim-LostSol",c=`${a}/tree/main/cli`,i={"@type":"Organization",name:s,url:n,logo:e("/logo.png"),description:o};export{c as C,i as O,n as S,e as a,s as b,o as c};
 
+
